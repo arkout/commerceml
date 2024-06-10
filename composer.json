@@ -17,6 +17,6 @@
             "ArtemsWay\\CommerceML\\": "src"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
