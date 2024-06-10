@@ -1,0 +1,22 @@
+{
+    "name": "arkout/commerceml",
+    "version": "1.0",
+    "homepage": "https://github.com/arkout/commerceml",
+    "description": "Fork of https://github.com/artemsway/commerceml.",
+    "keywords": ["commerceml", "1c"],
+    "license": "MIT",
+    "authors": [
+        {
+            "homepage": "https://github.com/ArtemsWay",
+            "name": "Artem Miroshnichenko",
+            "email": "artemsway@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ArtemsWay\\CommerceML\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
